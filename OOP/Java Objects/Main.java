@@ -6,6 +6,9 @@ public class Main {
 
     Car myCar = new Car();
     myCar.brake();
+    System.out.println(myCar.model);
+    System.out.println(myCar.price);
+    System.out.println(myCar.toString());
   }
 }
 
@@ -17,11 +20,17 @@ public class Car {
   String color = "blue";
   double price = 50000.00;
 
+  // Methods
   void drive() {
     System.out.println("You Drive the Car");
   }
 
   void brake() {
     System.out.println("You Stepped on the Brake!");
+  }
+
+  public String toString() {
+    String myString = make + "\n" + model + "\n" + color + "\n" + year;
+    return myString;
   }
 }
