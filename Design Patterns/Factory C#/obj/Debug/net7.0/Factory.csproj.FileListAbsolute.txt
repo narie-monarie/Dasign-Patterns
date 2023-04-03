@@ -1,0 +1,15 @@
+/home/nari3/C Sharp/Factory/bin/Debug/net7.0/Factory
+/home/nari3/C Sharp/Factory/bin/Debug/net7.0/Factory.deps.json
+/home/nari3/C Sharp/Factory/bin/Debug/net7.0/Factory.runtimeconfig.json
+/home/nari3/C Sharp/Factory/bin/Debug/net7.0/Factory.dll
+/home/nari3/C Sharp/Factory/bin/Debug/net7.0/Factory.pdb
+/home/nari3/C Sharp/Factory/obj/Debug/net7.0/Factory.csproj.AssemblyReference.cache
+/home/nari3/C Sharp/Factory/obj/Debug/net7.0/Factory.GeneratedMSBuildEditorConfig.editorconfig
+/home/nari3/C Sharp/Factory/obj/Debug/net7.0/Factory.AssemblyInfoInputs.cache
+/home/nari3/C Sharp/Factory/obj/Debug/net7.0/Factory.AssemblyInfo.cs
+/home/nari3/C Sharp/Factory/obj/Debug/net7.0/Factory.csproj.CoreCompileInputs.cache
+/home/nari3/C Sharp/Factory/obj/Debug/net7.0/Factory.dll
+/home/nari3/C Sharp/Factory/obj/Debug/net7.0/refint/Factory.dll
+/home/nari3/C Sharp/Factory/obj/Debug/net7.0/Factory.pdb
+/home/nari3/C Sharp/Factory/obj/Debug/net7.0/Factory.genruntimeconfig.cache
+/home/nari3/C Sharp/Factory/obj/Debug/net7.0/ref/Factory.dll

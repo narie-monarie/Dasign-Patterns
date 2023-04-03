@@ -9,6 +9,7 @@ public class Main {
     notification.notifyUser();
   }
 }
+
 public interface Notification {
   void notifyUser();
 }
@@ -29,24 +30,23 @@ public class EmailNotification implements Notification {
 
 public class pushNotification implements Notification {
   @Override
-  public void notifyUser(){
+  public void notifyUser() {
     System.out.println("Sending a push notification");
-  }  
-}
-public class NotificationFactory{
-  public Notification createNotification(String channel){
-    if(channel == null || channel.isEmpty()){
-      return null;
-    }
-    else if(channel.equalsIgnoreCase("SMS")){
-          return new SMSNotification();        
-    }else if(channel.equalsIgnoreCase("EMAIL")){
-      return new EmailNotification();
-    }else if (channel.equalsIgnoreCase("PUSH")){
-      return new pushNotification();
-    }else{
-      return null; 
-    }
   }
 }
 
+public class NotificationFactory {
+  public Notification createNotification(String channel) {
+    if (channel == null || channel.isEmpty()) {
+      return null;
+    } else if (channel.equalsIgnoreCase("SMS")) {
+      return new SMSNotification();
+    } else if (channel.equalsIgnoreCase("EMAIL")) {
+      return new EmailNotification();
+    } else if (channel.equalsIgnoreCase("PUSH")) {
+      return new pushNotification();
+    } else {
+      return null;
+    }
+  }
+}
