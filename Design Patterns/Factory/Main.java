@@ -1,7 +1,6 @@
-//Creational Design pattern
+// It is a Creational Design pattern
 // Define an interface on an abstract Class for creating an object and
 // let the subclasses choose which class to instanciate
-//
 
 public class Main {
   public static void main(String[] args) {
@@ -34,8 +33,6 @@ public class pushNotification implements Notification {
     System.out.println("Sending a push notification");
   }  
 }
-
-
 public class NotificationFactory{
   public Notification createNotification(String channel){
     if(channel == null || channel.isEmpty()){
@@ -52,3 +49,4 @@ public class NotificationFactory{
     }
   }
 }
+
