@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "efBPq3tU3ZfHrQfWVlTKQyxvqeV6sjvFju1PlSzGw6aYVNQjBJPnK614h5DSTm47108LFCs0mPn5EcwysfjU3A==",
+  "success": true,
+  "projectFilePath": "/home/nari3/Documents/Design Patterns/Design Patterns/Singleton C#/Singleton.csproj",
+  "expectedPackageFiles": [
+    "/home/nari3/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.3/microsoft.aspnetcore.app.ref.7.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

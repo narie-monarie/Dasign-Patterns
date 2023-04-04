@@ -1,0 +1,30 @@
+/home/nari3/Documents/Design Patterns/Design Patterns/Singleton/bin/Debug/net7.0/Singleton
+/home/nari3/Documents/Design Patterns/Design Patterns/Singleton/bin/Debug/net7.0/Singleton.deps.json
+/home/nari3/Documents/Design Patterns/Design Patterns/Singleton/bin/Debug/net7.0/Singleton.runtimeconfig.json
+/home/nari3/Documents/Design Patterns/Design Patterns/Singleton/bin/Debug/net7.0/Singleton.dll
+/home/nari3/Documents/Design Patterns/Design Patterns/Singleton/bin/Debug/net7.0/Singleton.pdb
+/home/nari3/Documents/Design Patterns/Design Patterns/Singleton/obj/Debug/net7.0/Singleton.csproj.AssemblyReference.cache
+/home/nari3/Documents/Design Patterns/Design Patterns/Singleton/obj/Debug/net7.0/Singleton.GeneratedMSBuildEditorConfig.editorconfig
+/home/nari3/Documents/Design Patterns/Design Patterns/Singleton/obj/Debug/net7.0/Singleton.AssemblyInfoInputs.cache
+/home/nari3/Documents/Design Patterns/Design Patterns/Singleton/obj/Debug/net7.0/Singleton.AssemblyInfo.cs
+/home/nari3/Documents/Design Patterns/Design Patterns/Singleton/obj/Debug/net7.0/Singleton.csproj.CoreCompileInputs.cache
+/home/nari3/Documents/Design Patterns/Design Patterns/Singleton/obj/Debug/net7.0/Singleton.dll
+/home/nari3/Documents/Design Patterns/Design Patterns/Singleton/obj/Debug/net7.0/refint/Singleton.dll
+/home/nari3/Documents/Design Patterns/Design Patterns/Singleton/obj/Debug/net7.0/Singleton.pdb
+/home/nari3/Documents/Design Patterns/Design Patterns/Singleton/obj/Debug/net7.0/Singleton.genruntimeconfig.cache
+/home/nari3/Documents/Design Patterns/Design Patterns/Singleton/obj/Debug/net7.0/ref/Singleton.dll
+/home/nari3/Documents/Design Patterns/Design Patterns/Singleton C#/bin/Debug/net7.0/Singleton
+/home/nari3/Documents/Design Patterns/Design Patterns/Singleton C#/bin/Debug/net7.0/Singleton.deps.json
+/home/nari3/Documents/Design Patterns/Design Patterns/Singleton C#/bin/Debug/net7.0/Singleton.runtimeconfig.json
+/home/nari3/Documents/Design Patterns/Design Patterns/Singleton C#/bin/Debug/net7.0/Singleton.dll
+/home/nari3/Documents/Design Patterns/Design Patterns/Singleton C#/bin/Debug/net7.0/Singleton.pdb
+/home/nari3/Documents/Design Patterns/Design Patterns/Singleton C#/obj/Debug/net7.0/Singleton.csproj.AssemblyReference.cache
+/home/nari3/Documents/Design Patterns/Design Patterns/Singleton C#/obj/Debug/net7.0/Singleton.GeneratedMSBuildEditorConfig.editorconfig
+/home/nari3/Documents/Design Patterns/Design Patterns/Singleton C#/obj/Debug/net7.0/Singleton.AssemblyInfoInputs.cache
+/home/nari3/Documents/Design Patterns/Design Patterns/Singleton C#/obj/Debug/net7.0/Singleton.AssemblyInfo.cs
+/home/nari3/Documents/Design Patterns/Design Patterns/Singleton C#/obj/Debug/net7.0/Singleton.csproj.CoreCompileInputs.cache
+/home/nari3/Documents/Design Patterns/Design Patterns/Singleton C#/obj/Debug/net7.0/Singleton.dll
+/home/nari3/Documents/Design Patterns/Design Patterns/Singleton C#/obj/Debug/net7.0/refint/Singleton.dll
+/home/nari3/Documents/Design Patterns/Design Patterns/Singleton C#/obj/Debug/net7.0/Singleton.pdb
+/home/nari3/Documents/Design Patterns/Design Patterns/Singleton C#/obj/Debug/net7.0/Singleton.genruntimeconfig.cache
+/home/nari3/Documents/Design Patterns/Design Patterns/Singleton C#/obj/Debug/net7.0/ref/Singleton.dll
