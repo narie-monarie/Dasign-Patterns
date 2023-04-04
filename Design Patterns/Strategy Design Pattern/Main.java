@@ -35,12 +35,12 @@ public class Animal {
    * }
    * 
    **/
-  //instead
-  public String tryToFly(){
+  // instead
+  public String tryToFly() {
     return flyingType.fly();
   }
 
-  public void setFlyingAbility(Flys newFlyType){
+  public void setFlyingAbility(Flys newFlyType) {
     flyingType = newFlyType;
   }
 }
@@ -55,8 +55,7 @@ class ItFlys implements Flys {
   }
 }
 
-class CantFly
-implemets Flys{
+public class CantFly implements Flys {
 
   public String fly() {
     return "I cant Fly";

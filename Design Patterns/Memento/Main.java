@@ -5,7 +5,6 @@ public class Main {
     editor.setContent("a");
     editor.setContent("b");
     editor.setContent("c");
-
     editor.undo();
   }
 }
