@@ -17,7 +17,7 @@
 - [x] Objects
 
 # Reactive Programming
-- It''s a programming paradigm where the focus is on 
+- It's a programming paradigm where the focus is on 
   developing asynchronous and non-blocking applications 
   in an event-driven form
   
@@ -36,7 +36,7 @@ public interface Publisher<T>{
 }
 ```
 
-- Subscriber - Subscribers to the publisher's events
+- Subscriber - Subscribes to the publisher's events
 
 ```java
 public interface Subscriber<T>{
@@ -48,5 +48,5 @@ public interface Subscriber<T>{
 ```
 
 ### Using Spring Boot (Project Reactor)
-- [ ] Mono
-- [ ] Flux
+- [] Mono
+- [] Flux
