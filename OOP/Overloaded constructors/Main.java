@@ -3,26 +3,8 @@ public class Main {
     // Overloaded constructors same name but diff parameters
     Pizza pizza = new Pizza("Thicc Crust", "Tomato", "Pineaple Unknown", "Pepperoni");
     Pizza pizza1 = new Pizza("Thicc Crust", "Tomato", "Pineaple Unknown");
+    System.out.println(pizza.bread + pizza1.bread);
   }
 }
 
-public class Pizza {
-  String bread;
-  String sauce;
-  String cheese;
-  String toppings;
 
-  Pizza(String bread,String sauce,String cheese,String toppings){
-    this.bread = bread;
-    this.sauce = sauce;
-    this.cheese = cheese;
-    this.toppings = toppings;
-  }
-
-  Pizza(String bread,String sauce,String cheese){
-    this.bread = bread;
-    this.sauce = sauce;
-    this.cheese = cheese;
-  }
-
-}
