@@ -1,14 +1,9 @@
-public class Main {
+public interface Hunter {
+  void hunt();
+}
 
-  public static void main(String[] args) {
-    // it specifies what a class has/must do
-    // classes can apply more than 1 interface while inheritance
-    // is limited to one super class
-
-    Rabbit rabbit = new Rabbit("Rangged Rabbit");
-    rabbit.flee();
-  } 
-  
+public interface Prey {
+  void flee();
 }
 
 public class Rabbit implements Prey {
@@ -21,7 +16,6 @@ public class Rabbit implements Prey {
   @Override
   public void flee() {
     System.out.println("The " + this.name + " is fleeing");
-  }
 }
 
 public class Hawk implements Hunter {
@@ -31,10 +25,16 @@ public class Hawk implements Hunter {
   }
 }
 
-public interface Hunter {
-  void hunt();
-}
 
-public interface Prey {
-  void flee();
+public class Main {
+
+  public static void main(String[] args) {
+    // it specifies what a class has/must do
+    // classes can apply more than 1 interface while inheritance
+    // is limited to one super class
+
+    Rabbit rabbit = new Rabbit("Rangged Rabbit");
+    rabbit.flee();
+  } 
+  
 }

@@ -211,3 +211,16 @@ class Demo{
 
 
 -  if you make a member static, you can access it without object
+
+### Association
+-  Association establishes relationship between two separate classes through their objects. The relationship can be one to one, One to many, many to one and many to many.
+
+### Aggregation
+- It is a relationship between two classes like association, however its a directional association, which means it is strictly a one way association. It represents a HAS-A relationship.
+
+Student Has-A Address (Has-a relationship between student and address)
+College Has-A Address (Has-a relationship between college and address)
+Staff Has-A Address (Has-a relationship between staff and address)
+
+
+
